@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hy57in/](https://github.com/hy57in/)
 
-- 📝 I regularly write articles on [https://hyodingit.tistory.com/](https://hyodingit.tistory.com/)
+- 📝 I regularly write articles on [https://velog.io/@gwsyl22](https://velog.io/@gwsyl22)
 
-- 📫 How to reach me **gywls00100@gmail.com/gywls00100@naver.com**
+- 📫 How to reach me **gywls00100@gmail.com / gywls00100@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
