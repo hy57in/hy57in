@@ -7,7 +7,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hy57in&show_icons=true&locale=en" alt="hy57in" /></p>
 
-- 🔭 I’m currently working on **HeadStart SV - Team MSVT**
+- 🔭 I’m currently working on **2021 HeadStart Silicon Valley Internship - Team MSBT(머쉬밴팀)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hy57in/](https://github.com/hy57in/)
 
