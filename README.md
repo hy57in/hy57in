@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on **2021 HeadStart Silicon Valley Internship - Team MSBT(머쉬밴팀)**
 
+https://github.com/MSBT-2021-Silicon-Valley-Internship/Helmet-Detection
+
 - 👨‍💻 All of my projects are available at [https://github.com/hy57in/](https://github.com/hy57in/)
 
 - 📝 I regularly write articles on [https://velog.io/@gwsyl22](https://velog.io/@gwsyl22)
