@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Hyojin Kim.</h1>
-<h3 align="center">A passionate Frontend developer from South Korea.</h3>
+<h3 align="center">A passionate Software Engineer from South Korea.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hy57in&label=Profile%20views&color=0e75b6&style=flat" alt="hy57in" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hy57in&show_icons=true&locale=en" alt="hy57in" /></p>
 
-- 🔭 I’m currently working on **2021 HeadStart Silicon Valley Internship - Team MSBT(머쉬밴팀)**
+- 🔭 I’m currently working on **SINDY: Signature In Dessert**
 
-https://github.com/MSBT-2021-Silicon-Valley-Internship/Helmet-Detection
+https://github.com/hy57in/capstone-frontend
 
 - 👨‍💻 All of my projects are available at [https://github.com/hy57in/](https://github.com/hy57in/)
 
