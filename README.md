@@ -1,15 +1,15 @@
 <h1 align="center">Hi there👋, I'm Hyojin Kim.</h1>
 <h3 align="center">A passionate Software Engineer from South Korea.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hy57in&label=Profile%20views&color=0e75b6&style=flat" alt="hy57in" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hy57in&label=Profile%20views&color=0e75b6&style=flat" alt="hy57in" />
+<a align="center" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF9A87&title_bg=%23555555&icon=exercism.svg&icon_color=%23E7E7E7&title=%F0%9F%91%89%F0%9F%8F%BB&edge_flat=false"/></a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hy57in&show_icons=true&locale=en&layout=compact" alt="hy57in" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hy57in&show_icons=true&locale=en" alt="hy57in" /></p>
 
-- 🔭 I’m currently working on **SINDY: Signature In Dessert**
-
-https://github.com/hy57in/capstone-frontend
+- 🔭 I’m currently working on **SINDY: Signature In Dessert** [https://github.com/hy57in/capstone-frontend](https://github.com/hy57in/capstone-frontend)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hy57in/](https://github.com/hy57in/)
 
