@@ -9,7 +9,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hy57in&show_icons=true&locale=en" alt="hy57in" /></p>
 
-- 🔭 I’m currently working on **SINDY: Signature In Dessert** [https://github.com/hy57in/capstone-frontend](https://github.com/hy57in/capstone-frontend)
+- 🔭 I’m currently working on **SINDY: Signature In Dessert** [https://github.com/teamsindy20/capstone-frontend](https://github.com/teamsindy20/capstone-frontend)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hy57in/](https://github.com/hy57in/)
 
