@@ -4,8 +4,7 @@
 <h4>👩🏻‍💻 Web Front-End Developer</h4>
 </p>
 
-<h3 align="center">⚒ Tech Stack ⚒</h3>
-<p align="center">
+<p align="left">
 <a href="https://javascript.info/" rel="nofollow"><img src="https://camo.githubusercontent.com/318695bb8bb3f74e026bb85d3b3a94aaf489017986ea5384d10a789617ec00ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465" alt="JavaScript Badge" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/78da7b72de707b836ec486ba2bfafa388fe0ee36e585053de139fa1dc1ddb1cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970657363726970742d3233354139373f7374796c653d666c61742d737175617265266c6f676f3d54797065736372697074266c6f676f436f6c6f723d7768697465" alt="TypeScript Badge" data-canonical-src="https://img.shields.io/badge/Typescript-235A97?style=flat-square&amp;logo=Typescript&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="https://reactjs.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/494b0f23952229478851f520adfe3e140e629a5f0423e7c9d6c333ed88be65a0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666c61742d737175617265266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465" alt="React Badge" data-canonical-src="https://im.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white" style="max-width:100%;"></a>
