@@ -12,9 +12,9 @@
 <a href="https://graphql.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/1e5912ebe4b729b0c3f0838d3f8e54183373994da1b7640e58367184a4d2845d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4772617068514c2d4531303039383f7374796c653d666c61742d737175617265266c6f676f3d4772617068514c266c6f676f436f6c6f723d7768697465" alt="GraphQL Badge" data-canonical-src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&amp;logo=GraphQL&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="https://styled-components.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/3098687a54cb06eabc2eccbb057c175024298507d9013d056e99e0d51fe9f2fa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5374796c65642d4442373039333f7374796c653d666c61742d737175617265266c6f676f3d7374796c65642d636f6d706f6e656e7473266c6f676f436f6c6f723d7768697465" alt="styled Badge" data-canonical-src="https://img.shields.io/badge/Styled-DB7093?style=flat-square&amp;logo=styled-components&amp;logoColor=white" style="max-width:100%;"></a>
 </p>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhy57in&count_bg=%23FF9A87&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hy57in&show_icons=true&locale=en" alt="hy57in" /></p>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhy57in&count_bg=%23FF9A87&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
 - 🔭 I’m currently working on **SINDY: Signature In Dessert** [https://github.com/teamsindy20/capstone-frontend](https://github.com/teamsindy20/capstone-frontend)
 
