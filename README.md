@@ -2,7 +2,7 @@
 <p align="left">
 <h4>👩🏻‍🎓 ChungAng Univ. Software Engineering</h4>
 <h4>👩🏻‍💻 Web Front-End Developer</h4>
-<h4>🍰 [DessertFit](https://dessert.fit/) Developer</h4>
+<h4>🍰 <a href="https://dessert.fit/">Dessert Fit</a> Developer</h4>
 </p>
 
 <p align="left">
