@@ -17,7 +17,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hy57in&show_icons=true&locale=en" alt="hy57in" /></p>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhy57in&count_bg=%23FF9A87&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 
-- 🔭 I’m currently working on **Dessert Fit [배포주소](https://dessert.fit/)**  [https://github.com/teamsindy20/capstone-frontend](https://github.com/teamsindy20/capstone-frontend)
+- 🔭 I’m currently working on **[Dessert Fit](https://dessert.fit/)**  [https://github.com/teamsindy20/capstone-frontend](https://github.com/teamsindy20/capstone-frontend)
 
 - 👨‍💻 All of my projects are available at [https://github.com/hy57in/](https://github.com/hy57in/)
 
