@@ -1,8 +1,9 @@
 <h1 align="center">Hyojin Kim</h1>
 <p align="left">
 <h4>👩🏻‍🎓 ChungAng Univ. Software Engineering</h4>
-<h4>👩🏻‍💻 Web Front-End Developer</h4>
+<h4>👩🏻‍💻 Web Front-End Engineer</h4>
 <h4>🍰 <a href="https://dessert.fit/">Dessert Fit</a> Developer</h4>
+<h4>🌟 <a href="https://www.notion.so/gwsyl22/RESUME-5e3b7a5a6daa4e9bacec8e9d2808aef3">RESUME</a> | WEBSITE</h4>
 </p>
 
 <p align="left">
