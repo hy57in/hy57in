@@ -23,6 +23,3 @@
 - 📝 I regularly write articles on [https://velog.io/@gwsyl22](https://velog.io/@gwsyl22)
 
 - 📫 How to reach me **gywls00100@gmail.com / gywls00100@naver.com**
-
-
-
