@@ -1,6 +1,6 @@
 <h1 align="center">Hyojin Kim</h1>
 <p align="left">
-<h4>👩🏻‍🎓 ChungAng Univ. Software Engineering</h4>
+<h4>👩🏻‍🎓 Chung-Ang Univ. Software Engineering</h4>
 <h4>👩🏻‍💻 Web Front-End Engineer</h4>
 <h4>☁️ <a href="https://sobok.vercel.app">Sobok</a> Developer</h4>
 <h4>🍰 <a href="https://dessert.fit/">Dessert Fit</a> Developer</h4>
