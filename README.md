@@ -2,9 +2,9 @@
 <p align="left">
 <h4>👩🏻‍🎓 Chung-Ang Univ. Software Engineering</h4>
 <h4>👩🏻‍💻 Web Front-End Engineer</h4>
-<h4>☁️ <a href="https://sobok.vercel.app">Sobok</a> Developer</h4>
+<h4>☁️ <a href="https://sobok.vercel.app">Sobok</a> Developer (...ing)</h4>
 <h4>🍰 <a href="https://dessert.fit/">Dessert Fit</a> Developer</h4>
-<h4>🌟 <a href="https://www.notion.so/gwsyl22/RESUME-5e3b7a5a6daa4e9bacec8e9d2808aef3">RESUME</a>
+<h4>🌟 <a href="https://www.notion.so/gwsyl22/RESUME-5e3b7a5a6daa4e9bacec8e9d2808aef3">About Me...</a>
 <!--   | <a href="https://hyojinkim-protfolio.vercel.app/">WEBSITE</a></h4> -->
 
 </p>
