@@ -4,6 +4,8 @@
 <h4>👩🏻‍💻 Web Front-End Engineer</h4>
 </p>
 
+---
+
 <p>
   - <b>디프만 11기 FE 운영진</b> 2022.01 ~ 2022.07<br>
   - <b>비바리퍼블리카(토스)</b> UX Enigneer Assistant</b>  2021.11 ~ ing<br>
@@ -12,6 +14,8 @@
   - <b>디프만 10기 FE 개발자</b> 2021.09 ~ 2021.12<br>
   - <b>2021 오픈소스 컨트리뷰톤 아카데미 EveryAnalytics 리드멘티</b> 2021.10 ~ 2021.12<br>
 </p>
+
+---
 
 <p align="left">
 <a href="https://javascript.info/" rel="nofollow"><img src="https://camo.githubusercontent.com/318695bb8bb3f74e026bb85d3b3a94aaf489017986ea5384d10a789617ec00ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465" alt="JavaScript Badge" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=white" style="max-width:100%;"></a>
