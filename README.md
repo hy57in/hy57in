@@ -7,7 +7,7 @@
 ---
 
 <p>
-  - <b>[비마이프렌즈](https://www.bemyfriends.com/) FrontEnd Developer</b> 2022.09 ~ ing<br>
+  - <b> <a href="https://www.bemyfriends.com/">비마이프렌즈</a> FrontEnd Developer</b> 2022.09 ~ ing<br>
 </p>
 
 ___
