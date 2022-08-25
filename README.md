@@ -8,6 +8,7 @@
 
 <p>
   - <b> <a href="https://www.bemyfriends.com/">비마이프렌즈</a> FrontEnd Developer</b> 2022.09 ~ ing<br>
+  - <b>비바리퍼블리카(토스) UX Enigneer Assistant</b>  2021.11 ~ 2022.08<br>
 </p>
 
 ___
@@ -15,7 +16,6 @@ ___
 <p>
   - <b>2022 오픈소스 컨트리뷰톤 아카데미 Githru-vscode-extension 멘티</b> 2022.07 ~ ing<br>
   - <b>디프만 11기 FE 운영진</b> 2022.01 ~ 2022.07<br>
-  - <b>비바리퍼블리카(토스)</b> UX Enigneer Assistant</b>  2021.11 ~ 2022.08<br>
   - <b>원티드 주관 해커톤 [해,커리어] FE 개발자 최종 2등</b> 2021.11 ~ 2021.12<br>
   - <b>IT-CON 2021 연사 발표</b> 2021.11.25<br>
   - <b>디프만 10기 FE 개발자</b> 2021.09 ~ 2021.12<br>
