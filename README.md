@@ -8,7 +8,7 @@
 
 <p>
   - <b> <a href="https://www.bemyfriends.com/">비마이프렌즈</a> FrontEnd Developer</b> 2022.09 ~ ing<br>
-  - <b>비바리퍼블리카(토스) UX Enigneer Assistant</b>  2021.11 ~ 2022.08<br>
+  - <b>비바리퍼블리카(토스) UX Engineer Assistant</b>  2021.11 ~ 2022.08<br>
 </p>
 
 ___
