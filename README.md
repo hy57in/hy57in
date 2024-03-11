@@ -2,8 +2,8 @@
 
 ## 🍎 Work Experience.
 
-- **[비마이프렌즈](https://www.bemyfriends.com) Frontend Developer** <sub>2022.09 ~ ing</sub>
-- **[비바리퍼블리카(토스)](https://www.bemyfriends.com) UX Engineer Assistant** <sub>2021.11 ~ 2022.08</sub>
+- **[bemyfriends](https://www.bemyfriends.com) Frontend Developer** <sub>2022.09 ~ ing</sub>
+- **[toss](https://www.bemyfriends.com) UX Engineer Assistant** <sub>2021.11 ~ 2022.08</sub>
 
 ## 👩🏻‍🎓 Education.
 
