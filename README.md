@@ -3,7 +3,7 @@
 ## 🍎 Work Experience.
 
 - **[bemyfriends](https://www.bemyfriends.com) Frontend Developer** <sub>2022.09 ~ ing</sub>
-- **[toss](https://www.bemyfriends.com) UX Engineer Assistant** <sub>2021.11 ~ 2022.08</sub>
+- **[toss](https://toss.im/) UX Engineer Assistant** <sub>2021.11 ~ 2022.08</sub>
 
 ## 👩🏻‍🎓 Education.
 
