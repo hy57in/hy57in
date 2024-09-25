@@ -25,7 +25,11 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![next](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/hy57in"/>
+<img
+  src="https://render.gitanimals.org/farms/hy57in"
+  width="600"
+  height="300"
+/>
 </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hy57in&show_icons=true&locale=en" alt="hy57in" /></p>
