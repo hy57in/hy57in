@@ -11,7 +11,7 @@
 
 ## 🐤 Activities.
 
-- 개발자를 위한 IT 커뮤니티, SIPE 3기 운영진 <sub>2024.09 ~ ing</sub>
+- 개발자를 위한 IT 커뮤니티, SIPE 3기 운영진 <sub>2024.09 ~ 2025.02</sub>
 - 개발자를 위한 IT 커뮤니티, SIPE 2기 회원 <sub>2024.03 ~ 2024.08</sub>
 - 2022 오픈소스 컨트리뷰톤 아카데미 Githru-vscode-extension 멘티 <sub>2022.07 ~ 2022.10</sub>
 - FEConf 2022 STAFF <sub>2022.10.09</sub>
