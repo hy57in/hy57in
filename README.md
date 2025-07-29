@@ -2,7 +2,8 @@
 
 ## 🍎 Work Experience.
 
-- **[bemyfriends](https://www.bemyfriends.com) Frontend Developer** <sub>2022.09 ~ ing</sub>
+- **bucketplace Software Engineer (frontend)** <sub>2025.07 ~ ing</sub>
+- **[bemyfriends](https://www.bemyfriends.com) Frontend Developer** <sub>2022.09 ~ 2025.07</sub>
 - **[toss](https://toss.im/) UX Engineer Assistant** <sub>2021.11 ~ 2022.08</sub>
 
 ## 👩🏻‍🎓 Education.
